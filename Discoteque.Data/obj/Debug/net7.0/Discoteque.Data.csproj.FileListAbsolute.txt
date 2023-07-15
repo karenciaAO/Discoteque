@@ -1,0 +1,12 @@
+/Users/karenaraque/Documents/GitHub/Discoteque/Discoteque.Data/bin/Debug/net7.0/Discoteque.Data.deps.json
+/Users/karenaraque/Documents/GitHub/Discoteque/Discoteque.Data/bin/Debug/net7.0/Discoteque.Data.dll
+/Users/karenaraque/Documents/GitHub/Discoteque/Discoteque.Data/bin/Debug/net7.0/Discoteque.Data.pdb
+/Users/karenaraque/Documents/GitHub/Discoteque/Discoteque.Data/obj/Debug/net7.0/Discoteque.Data.csproj.AssemblyReference.cache
+/Users/karenaraque/Documents/GitHub/Discoteque/Discoteque.Data/obj/Debug/net7.0/Discoteque.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/karenaraque/Documents/GitHub/Discoteque/Discoteque.Data/obj/Debug/net7.0/Discoteque.Data.AssemblyInfoInputs.cache
+/Users/karenaraque/Documents/GitHub/Discoteque/Discoteque.Data/obj/Debug/net7.0/Discoteque.Data.AssemblyInfo.cs
+/Users/karenaraque/Documents/GitHub/Discoteque/Discoteque.Data/obj/Debug/net7.0/Discoteque.Data.csproj.CoreCompileInputs.cache
+/Users/karenaraque/Documents/GitHub/Discoteque/Discoteque.Data/obj/Debug/net7.0/Discoteque.Data.dll
+/Users/karenaraque/Documents/GitHub/Discoteque/Discoteque.Data/obj/Debug/net7.0/refint/Discoteque.Data.dll
+/Users/karenaraque/Documents/GitHub/Discoteque/Discoteque.Data/obj/Debug/net7.0/Discoteque.Data.pdb
+/Users/karenaraque/Documents/GitHub/Discoteque/Discoteque.Data/obj/Debug/net7.0/ref/Discoteque.Data.dll

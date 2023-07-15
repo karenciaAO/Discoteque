@@ -1,0 +1,12 @@
+/Users/karenaraque/Documents/GitHub/Discoteque/Discoteque.Business/bin/Debug/net7.0/Discoteque.Business.deps.json
+/Users/karenaraque/Documents/GitHub/Discoteque/Discoteque.Business/bin/Debug/net7.0/Discoteque.Business.dll
+/Users/karenaraque/Documents/GitHub/Discoteque/Discoteque.Business/bin/Debug/net7.0/Discoteque.Business.pdb
+/Users/karenaraque/Documents/GitHub/Discoteque/Discoteque.Business/obj/Debug/net7.0/Discoteque.Business.csproj.AssemblyReference.cache
+/Users/karenaraque/Documents/GitHub/Discoteque/Discoteque.Business/obj/Debug/net7.0/Discoteque.Business.GeneratedMSBuildEditorConfig.editorconfig
+/Users/karenaraque/Documents/GitHub/Discoteque/Discoteque.Business/obj/Debug/net7.0/Discoteque.Business.AssemblyInfoInputs.cache
+/Users/karenaraque/Documents/GitHub/Discoteque/Discoteque.Business/obj/Debug/net7.0/Discoteque.Business.AssemblyInfo.cs
+/Users/karenaraque/Documents/GitHub/Discoteque/Discoteque.Business/obj/Debug/net7.0/Discoteque.Business.csproj.CoreCompileInputs.cache
+/Users/karenaraque/Documents/GitHub/Discoteque/Discoteque.Business/obj/Debug/net7.0/Discoteque.Business.dll
+/Users/karenaraque/Documents/GitHub/Discoteque/Discoteque.Business/obj/Debug/net7.0/refint/Discoteque.Business.dll
+/Users/karenaraque/Documents/GitHub/Discoteque/Discoteque.Business/obj/Debug/net7.0/Discoteque.Business.pdb
+/Users/karenaraque/Documents/GitHub/Discoteque/Discoteque.Business/obj/Debug/net7.0/ref/Discoteque.Business.dll
