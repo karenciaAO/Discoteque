@@ -10,3 +10,6 @@
 /Users/karenaraque/Documents/GitHub/Discoteque/Discoteque.Business/obj/Debug/net7.0/refint/Discoteque.Business.dll
 /Users/karenaraque/Documents/GitHub/Discoteque/Discoteque.Business/obj/Debug/net7.0/Discoteque.Business.pdb
 /Users/karenaraque/Documents/GitHub/Discoteque/Discoteque.Business/obj/Debug/net7.0/ref/Discoteque.Business.dll
+/Users/karenaraque/Documents/GitHub/Discoteque/Discoteque.Business/bin/Debug/net7.0/Discoteque.Data.dll
+/Users/karenaraque/Documents/GitHub/Discoteque/Discoteque.Business/bin/Debug/net7.0/Discoteque.Data.pdb
+/Users/karenaraque/Documents/GitHub/Discoteque/Discoteque.Business/obj/Debug/net7.0/Discoteque.Business.csproj.CopyComplete

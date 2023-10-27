@@ -1,8 +1,21 @@
 {
   "version": 2,
-  "dgSpecHash": "KA/t91SQQcAYGnKGYW6pDSo6VvwmFCHmuQdGB01gOpUs6L7Fn/8oVnPXT0G/sxe6BkY8KpFPJaG59Rb1zbZo9A==",
+  "dgSpecHash": "ANMJ0TYhwz38LDVntgxD6vACY24Zd+mC1Cv2rJo6XTWu6xw+kPiwtTIhVVOQuw+qWvdgKF+Qlf5X9NAEjzSYxQ==",
   "success": true,
   "projectFilePath": "/Users/karenaraque/Documents/GitHub/Discoteque/Discoteque.Data/Discoteque.Data.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/karenaraque/.nuget/packages/microsoft.entityframeworkcore/7.0.9/microsoft.entityframeworkcore.7.0.9.nupkg.sha512",
+    "/Users/karenaraque/.nuget/packages/microsoft.entityframeworkcore.abstractions/7.0.9/microsoft.entityframeworkcore.abstractions.7.0.9.nupkg.sha512",
+    "/Users/karenaraque/.nuget/packages/microsoft.entityframeworkcore.analyzers/7.0.9/microsoft.entityframeworkcore.analyzers.7.0.9.nupkg.sha512",
+    "/Users/karenaraque/.nuget/packages/microsoft.entityframeworkcore.inmemory/7.0.9/microsoft.entityframeworkcore.inmemory.7.0.9.nupkg.sha512",
+    "/Users/karenaraque/.nuget/packages/microsoft.extensions.caching.abstractions/7.0.0/microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
+    "/Users/karenaraque/.nuget/packages/microsoft.extensions.caching.memory/7.0.0/microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
+    "/Users/karenaraque/.nuget/packages/microsoft.extensions.dependencyinjection/7.0.0/microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "/Users/karenaraque/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "/Users/karenaraque/.nuget/packages/microsoft.extensions.logging/7.0.0/microsoft.extensions.logging.7.0.0.nupkg.sha512",
+    "/Users/karenaraque/.nuget/packages/microsoft.extensions.logging.abstractions/7.0.0/microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "/Users/karenaraque/.nuget/packages/microsoft.extensions.options/7.0.0/microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "/Users/karenaraque/.nuget/packages/microsoft.extensions.primitives/7.0.0/microsoft.extensions.primitives.7.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
